@@ -17,3 +17,9 @@ B.for single node js version
   app.listen(port, () => {
       console.log(`Example app listening at http://localhost:${port}`);
   });
+6.add run command inside script of package.json
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  7.To run project hit 'npm start' command
