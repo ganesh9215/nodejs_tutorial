@@ -1,5 +1,8 @@
 # step to setup or run server with db connection
-
+A. for multiple node js version
+1. install nvm(https://www.geeksforgeeks.org/installation-guide/how-to-install-and-use-nvm-on-windows/)
+2. install reqired node js using nvm (mentioned in step 1)
+3. oter steops are same as mentioned in step B exclude step 1.
 B.for single node js version
 1.install node js required or latest stable version(LTS) from browser(https://nodejs.org/en/download).
 2.run command npm init (if you want to enter project details) or npm init -y (if don't want to enter details)
